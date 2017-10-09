@@ -1,0 +1,58 @@
+.highlight{
+	color : Gray;
+}
+.image{
+	width : 250px;
+	height : 250px;
+	float : right;
+	position : absolute;
+	top : 40px;
+	right : 50px;
+	transform : rotate(-5deg);
+	clear : left;
+}
+.career{
+	color : Gray;
+	width : 800px;
+	font-style : italic;
+}
+h1{
+	margin-bottom : 1px;
+}
+.space{
+	margin : 15px;
+	float : none;
+	clear : both;
+	height : 5px;
+}
+.heading{
+	clear : both;
+	margin-left : 40px;
+	margin-right : 20px;
+	font-weight : bold;
+	font-size : 20px;
+	font-style : italic;
+	float : left;
+	clear : both;
+	width : 100px;
+}
+.content{
+	border-left : 2px solid Gray;
+	padding-left : 20px;
+	float : left;
+}
+.bold_text{
+	font-size : 22px;
+	font-weight : bold;
+}
+.sub_heading{
+	clear : both;
+	margin-left : 160px;
+	border-left : 2px solid Gray;
+	float : left;
+	padding-left : 20px;
+}
+.timeline{
+	font-style : italic;
+	color : Gray;
+}
